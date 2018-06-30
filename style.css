@@ -1,0 +1,37 @@
+p{
+	font-family: cursive;
+	
+
+}
+h1{
+	font-family:times, serif;
+	color: blue;
+}
+h2,h3{
+	font-family: Helvetica;
+
+}
+.dark{
+	background-color:gray;
+	padding-left: 372px;
+}
+.author{
+font-style: italic;
+color: blue;
+
+}
+a{
+	margin-left: -327px;
+	color: white;
+	font-size: 24px;
+}
+.button{
+	width: 176px;
+	height: 31px;
+	margin-top: 15px;
+}
+#commenter_name{
+	width: 176px;
+	height: 30px;
+}
+
